@@ -31,4 +31,4 @@ let raqueteAltura = 90;function setup() {
       yBolinha - raio < yRaquete + raqueteAltura && 
       yBolinha + raio > yRaquete){
     velocidadeXBolinha *= -1;}}
-[https://www.google.com/search?q=imagens+pong&tbm=isch&ved=2ahUKEwjHmvKrmYOCAxUwHLkGHXWPDskQ2-cCegQIABAA&oq=imagens+pong&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgARQzwhYxhFgtBJoAHAAeACAAaUIiAHsF5IBCTAuMi42LTIuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=u7IxZYfRGrC45OUP9Z66yAw&bih=975&biw=1920#imgrc=aczQUrR8ZOloCM] (https://scratch.mit.edu/projects/853487940/)
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adrenaline.com.br%2Fgames%2Fpong-primeiro-jogo-lucrativo-da-historia-dos-games-completa-49-anos%2F&psig=AOvVaw2HrcX-6dO4sQQ6g0V6VA0D&ust=1697842239892000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiz8q6Zg4IDFQAAAAAdAAAAABAH] (https://scratch.mit.edu/projects/853487940/)
