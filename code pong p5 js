@@ -4,7 +4,8 @@ let yBolinha = 200;
 let diametro = 15;
 let raio = diametro / 2 ;//velocidade da bolinha
 let velocidadeXBolinha = 6;
-let velocidadeYBolinha = 6;//variáveis da raquete
+let velocidadeYBolinha = 6;//variáveis da raqueteSua velocidade de clique é 8.97 CPS
+
 let xRaquete = 5;
 let yRaquete = 150;
 let raqueteComprimento = 10;
@@ -31,4 +32,4 @@ let raqueteAltura = 90;function setup() {
       yBolinha - raio < yRaquete + raqueteAltura && 
       yBolinha + raio > yRaquete){
     velocidadeXBolinha *= -1;}}
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adrenaline.com.br%2Fgames%2Fpong-primeiro-jogo-lucrativo-da-historia-dos-games-completa-49-anos%2F&psig=AOvVaw2HrcX-6dO4sQQ6g0V6VA0D&ust=1697842239892000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiz8q6Zg4IDFQAAAAAdAAAAABAH] (https://scratch.mit.edu/projects/853487940/)
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adrenaline.com.br%2Fgames%2Fpong-primeiro-jogo-lucrativo-da-historia-dos-games-completa-49-anos%2F&psig=AOvVaw2HrcX-6dO4sQQ6g0V6VA0D&ust=1697842239892000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiz8q6Zg4IDFQAAAAAdAAAAABAH] (https://scratch.mit.edu/projects/853487940/)
