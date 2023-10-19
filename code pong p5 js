@@ -31,3 +31,4 @@ let raqueteAltura = 90;function setup() {
       yBolinha - raio < yRaquete + raqueteAltura && 
       yBolinha + raio > yRaquete){
     velocidadeXBolinha *= -1;}}
+[https://www.google.com/search?q=imagens+pong&tbm=isch&ved=2ahUKEwjHmvKrmYOCAxUwHLkGHXWPDskQ2-cCegQIABAA&oq=imagens+pong&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgARQzwhYxhFgtBJoAHAAeACAAaUIiAHsF5IBCTAuMi42LTIuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=u7IxZYfRGrC45OUP9Z66yAw&bih=975&biw=1920#imgrc=aczQUrR8ZOloCM] (https://scratch.mit.edu/projects/853487940/)
